@@ -1,9 +1,9 @@
 
-OCR It! 
+# Exract Text from Images
 ------------------------------------------------------------------------
-The code takes input of image preprocess it then tesseract process the preprocessed image to give the output.
+#### The code takes input of image preprocess it then tesseract process the preprocessed image to give the output.
 
-First starting with break down of code:
+#### First starting with break down of code:
 1. Libraries :
 a. cv2=OpenCV Library
 b. pytesseract=Tessaract library
@@ -12,6 +12,7 @@ c. numpy=Numerical Python
 2. Functions:
 a. imread= Reading image from directory.
 b. new_image=Like we create an empty array in similar way we can call it an empty image variable.
+
 characteristics: Initial pixel values equal to zero
 Same size and type as the original image
 
@@ -33,7 +34,7 @@ np.zeros= numpy function to create an all black image.
 
 puText= to relay text on image created by np.zero.
 
-Work flow of program:
+#### Work flow of program:
 1. It reads the image from the directory.
 2. Different preprocessing is done: Contrasting, greyscaling and thresholding to improve accuracy.
 3. saving of processed image.(Not mandatory to do this step).
@@ -42,7 +43,7 @@ Work flow of program:
 6. Extracted texts are diplayed in image and also printed on output screen.
 
 
-To run this code:
+#### To run this code:
 1. jupyter notebook(recommended)
 2. modules required: cv2, tesseract, numpy.
 3. make sure to add correct path of input images.
