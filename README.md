@@ -1,4 +1,4 @@
-[![HitCount](http://hits.dwyl.com/itsrohanvj/itsrohanvj/Excel-file-comparisor.svg)](http://hits.dwyl.com/itsrohanvj/itsrohanvj/Excel-file-comparisor)
+
 
 
 # Exract Text from Images
