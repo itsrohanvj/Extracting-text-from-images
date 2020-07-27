@@ -21,7 +21,7 @@ Same size and type as the original image
 alpha=this value controls contrast of image.
 beta=it controls brightness of image.
 
-3. three for loops= to read three values(B,G,R) per pixel of image and bring out the changes required like change in contrast.
+3. three 'for' loops= to read three values(B,G,R) per pixel of image and bring out the changes required like change in contrast.
 
 imshow= to display the image
 waitKey= to wait for user 
