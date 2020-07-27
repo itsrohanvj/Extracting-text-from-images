@@ -52,4 +52,4 @@ puText= to relay text on image created by np.zero.
 4. since image quality is high so initially it may take 10-15 seconds to load image.
 5. Alternative: you can also install tesseract in system and pass your image through commmand line.
 6. to pass through cmd: <file name><space> ..<output file name> -l eng 
-7. the result will be in the form of txt file.(I'll attach one).
+7. the result will be in the form of txt file.
