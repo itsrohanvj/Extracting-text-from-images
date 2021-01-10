@@ -1,7 +1,7 @@
 
 
 
-# Exract Text from Images
+# Extract Text from Images
 ------------------------------------------------------------------------
 #### The code takes input of image preprocess it then tesseract process the preprocessed image to give the output.
 
@@ -42,7 +42,7 @@ puText= to relay text on image created by np.zero.
 3. saving of processed image.(Not mandatory to do this step).
 4. reading of processed image from directory(if saved) and if not saved we can directly call the processed image without saving it.
 5. Tesseract comes in role, it extracts texts from processed image 
-6. Extracted texts are diplayed in image and also printed on output screen.
+6. Extracted texts are displayed in image and also printed on output screen.
 
 
 #### To run this code:
